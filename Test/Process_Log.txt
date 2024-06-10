@@ -1,0 +1,1990 @@
+========================================
+Welcome..! to Log File 
+Log File created at : Tue Jun 11 00:08:20 2024
+========================================
+Running Processes Log file contents are : 
+========================================
+Process ID:       0
+Process Name:     System Idle Process
+Username:         NT AUTHORITY\SYSTEM
+CPU Usage:        0.0%
+Memory Usage:     RSS=8192, VMS=61440
+Status:           running
+========================================
+
+Process ID:       4
+Process Name:     System
+Username:         NT AUTHORITY\SYSTEM
+CPU Usage:        0.0%
+Memory Usage:     RSS=5443584, VMS=53248
+Status:           running
+========================================
+
+Process ID:       140
+Process Name:     
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=32153600, VMS=188416
+Status:           stopped
+========================================
+
+Process ID:       176
+Process Name:     Registry
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=26882048, VMS=11726848
+Status:           running
+========================================
+
+Process ID:       268
+Process Name:     WhatsApp.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=29896704, VMS=91893760
+Status:           stopped
+========================================
+
+Process ID:       376
+Process Name:     cmd.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=5357568, VMS=4431872
+Status:           running
+========================================
+
+Process ID:       632
+Process Name:     smss.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=1015808, VMS=1134592
+Status:           running
+========================================
+
+Process ID:       744
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=16834560, VMS=7532544
+Status:           running
+========================================
+
+Process ID:       764
+Process Name:     csrss.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=4669440, VMS=2387968
+Status:           running
+========================================
+
+Process ID:       792
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=9576448, VMS=3026944
+Status:           running
+========================================
+
+Process ID:       1112
+Process Name:     wininit.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=5410816, VMS=1507328
+Status:           running
+========================================
+
+Process ID:       1132
+Process Name:     csrss.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=5992448, VMS=3125248
+Status:           running
+========================================
+
+Process ID:       1184
+Process Name:     services.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=8839168, VMS=6213632
+Status:           running
+========================================
+
+Process ID:       1204
+Process Name:     LsaIso.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=3153920, VMS=1122304
+Status:           running
+========================================
+
+Process ID:       1220
+Process Name:     lsass.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=22892544, VMS=11714560
+Status:           running
+========================================
+
+Process ID:       1328
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=30859264, VMS=12480512
+Status:           running
+========================================
+
+Process ID:       1372
+Process Name:     fontdrvhost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=2727936, VMS=1994752
+Status:           running
+========================================
+
+Process ID:       1428
+Process Name:     WUDFHost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=15597568, VMS=7557120
+Status:           running
+========================================
+
+Process ID:       1448
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=16498688, VMS=9375744
+Status:           running
+========================================
+
+Process ID:       1516
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=8056832, VMS=3006464
+Status:           running
+========================================
+
+Process ID:       1564
+Process Name:     WUDFHost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=6848512, VMS=5443584
+Status:           running
+========================================
+
+Process ID:       1604
+Process Name:     ShellExperienceHost.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=66240512, VMS=59056128
+Status:           stopped
+========================================
+
+Process ID:       1640
+Process Name:     winlogon.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=9965568, VMS=2584576
+Status:           running
+========================================
+
+Process ID:       1692
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=15691776, VMS=6467584
+Status:           running
+========================================
+
+Process ID:       1696
+Process Name:     fontdrvhost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=5357568, VMS=4120576
+Status:           running
+========================================
+
+Process ID:       1780
+Process Name:     dwm.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=118857728, VMS=176205824
+Status:           running
+========================================
+
+Process ID:       1864
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=5197824, VMS=1159168
+Status:           running
+========================================
+
+Process ID:       1880
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=7127040, VMS=6373376
+Status:           running
+========================================
+
+Process ID:       1900
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=9887744, VMS=2838528
+Status:           running
+========================================
+
+Process ID:       1912
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=11997184, VMS=3362816
+Status:           running
+========================================
+
+Process ID:       1928
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=12886016, VMS=4583424
+Status:           running
+========================================
+
+Process ID:       1968
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=13647872, VMS=3080192
+Status:           running
+========================================
+
+Process ID:       2192
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=5988352, VMS=1789952
+Status:           running
+========================================
+
+Process ID:       2212
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=10371072, VMS=3305472
+Status:           running
+========================================
+
+Process ID:       2228
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=9637888, VMS=2383872
+Status:           running
+========================================
+
+Process ID:       2256
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=9605120, VMS=2347008
+Status:           running
+========================================
+
+Process ID:       2308
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=7999488, VMS=2547712
+Status:           running
+========================================
+
+Process ID:       2372
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=15142912, VMS=3936256
+Status:           running
+========================================
+
+Process ID:       2452
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=15015936, VMS=3559424
+Status:           running
+========================================
+
+Process ID:       2476
+Process Name:     IntelCpHDCPSvc.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=5058560, VMS=1269760
+Status:           running
+========================================
+
+Process ID:       2496
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=8265728, VMS=2850816
+Status:           running
+========================================
+
+Process ID:       2564
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=5595136, VMS=1527808
+Status:           running
+========================================
+
+Process ID:       2584
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=7884800, VMS=2023424
+Status:           running
+========================================
+
+Process ID:       2636
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=9465856, VMS=3805184
+Status:           running
+========================================
+
+Process ID:       2648
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=7327744, VMS=2052096
+Status:           running
+========================================
+
+Process ID:       2660
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=8364032, VMS=1835008
+Status:           running
+========================================
+
+Process ID:       2720
+Process Name:     msedge.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=75882496, VMS=35201024
+Status:           running
+========================================
+
+Process ID:       2784
+Process Name:     msedge.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=17821696, VMS=7548928
+Status:           running
+========================================
+
+Process ID:       2788
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=8257536, VMS=2670592
+Status:           running
+========================================
+
+Process ID:       2816
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=12730368, VMS=3878912
+Status:           running
+========================================
+
+Process ID:       2820
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=7892992, VMS=1974272
+Status:           running
+========================================
+
+Process ID:       2936
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=7077888, VMS=1724416
+Status:           running
+========================================
+
+Process ID:       2964
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=10809344, VMS=2551808
+Status:           running
+========================================
+
+Process ID:       3048
+Process Name:     igfxCUIServiceN.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=8753152, VMS=2052096
+Status:           running
+========================================
+
+Process ID:       3080
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=9089024, VMS=2252800
+Status:           running
+========================================
+
+Process ID:       3116
+Process Name:     Code.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=141877248, VMS=178323456
+Status:           running
+========================================
+
+Process ID:       3224
+Process Name:     WUDFHost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=7196672, VMS=1961984
+Status:           running
+========================================
+
+Process ID:       3368
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=14295040, VMS=3674112
+Status:           running
+========================================
+
+Process ID:       3404
+Process Name:     NVDisplay.Container.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=15560704, VMS=7720960
+Status:           running
+========================================
+
+Process ID:       3432
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=17510400, VMS=11608064
+Status:           running
+========================================
+
+Process ID:       3520
+Process Name:     AsusCertService.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=6131712, VMS=1503232
+Status:           running
+========================================
+
+Process ID:       3528
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=15757312, VMS=19107840
+Status:           running
+========================================
+
+Process ID:       3600
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=12521472, VMS=3276800
+Status:           running
+========================================
+
+Process ID:       3608
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=5754880, VMS=1392640
+Status:           running
+========================================
+
+Process ID:       3680
+Process Name:     dasHost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=9392128, VMS=3272704
+Status:           running
+========================================
+
+Process ID:       3712
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=8159232, VMS=2363392
+Status:           running
+========================================
+
+Process ID:       3732
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=8335360, VMS=2351104
+Status:           running
+========================================
+
+Process ID:       3744
+Process Name:     MemCompression
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=563216384, VMS=2445312
+Status:           running
+========================================
+
+Process ID:       3780
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=6217728, VMS=1351680
+Status:           running
+========================================
+
+Process ID:       3828
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=6832128, VMS=1523712
+Status:           running
+========================================
+
+Process ID:       4036
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=18227200, VMS=10698752
+Status:           running
+========================================
+
+Process ID:       4060
+Process Name:     NVDisplay.Container.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=40554496, VMS=55775232
+Status:           running
+========================================
+
+Process ID:       4168
+Process Name:     conhost.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=6012928, VMS=1331200
+Status:           running
+========================================
+
+Process ID:       4192
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=10059776, VMS=2342912
+Status:           running
+========================================
+
+Process ID:       4228
+Process Name:     conhost.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=8499200, VMS=1478656
+Status:           running
+========================================
+
+Process ID:       4288
+Process Name:     msedgewebview2.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=9195520, VMS=35721216
+Status:           running
+========================================
+
+Process ID:       4328
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=18071552, VMS=6766592
+Status:           running
+========================================
+
+Process ID:       4360
+Process Name:     AsusOptimization.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=7634944, VMS=2031616
+Status:           running
+========================================
+
+Process ID:       4368
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=11415552, VMS=3264512
+Status:           running
+========================================
+
+Process ID:       4464
+Process Name:     smartscreen.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=11128832, VMS=2740224
+Status:           running
+========================================
+
+Process ID:       4552
+Process Name:     spoolsv.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=14409728, VMS=6373376
+Status:           running
+========================================
+
+Process ID:       4596
+Process Name:     wlanext.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=5881856, VMS=1241088
+Status:           running
+========================================
+
+Process ID:       4604
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=19918848, VMS=15880192
+Status:           running
+========================================
+
+Process ID:       4652
+Process Name:     conhost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=4898816, VMS=5361664
+Status:           running
+========================================
+
+Process ID:       4704
+Process Name:     dasHost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=4808704, VMS=1052672
+Status:           running
+========================================
+
+Process ID:       4752
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=7708672, VMS=1961984
+Status:           running
+========================================
+
+Process ID:       4780
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=11612160, VMS=3244032
+Status:           running
+========================================
+
+Process ID:       4860
+Process Name:     svchost.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=23912448, VMS=5427200
+Status:           running
+========================================
+
+Process ID:       4884
+Process Name:     ArmouryCrateControlInterface.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=10027008, VMS=3076096
+Status:           running
+========================================
+
+Process ID:       4892
+Process Name:     AnyDesk.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=12832768, VMS=30326784
+Status:           running
+========================================
+
+Process ID:       4904
+Process Name:     AsusSystemDiagnosis.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=9748480, VMS=2514944
+Status:           running
+========================================
+
+Process ID:       4912
+Process Name:     ArmouryCrate.Service.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=67244032, VMS=98058240
+Status:           running
+========================================
+
+Process ID:       4920
+Process Name:     AuraWallpaperService.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=23007232, VMS=22061056
+Status:           running
+========================================
+
+Process ID:       4928
+Process Name:     AsusSystemAnalysis.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=16281600, VMS=5206016
+Status:           running
+========================================
+
+Process ID:       4936
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=16695296, VMS=5394432
+Status:           running
+========================================
+
+Process ID:       4944
+Process Name:     AsusAppService.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=25874432, VMS=5750784
+Status:           running
+========================================
+
+Process ID:       4956
+Process Name:     AsusSwitch.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=7413760, VMS=1798144
+Status:           running
+========================================
+
+Process ID:       4968
+Process Name:     AsusSoftwareManager.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=15675392, VMS=8794112
+Status:           running
+========================================
+
+Process ID:       4980
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=11927552, VMS=2568192
+Status:           running
+========================================
+
+Process ID:       4992
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=37982208, VMS=28786688
+Status:           running
+========================================
+
+Process ID:       5008
+Process Name:     OfficeClickToRun.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=30310400, VMS=36139008
+Status:           running
+========================================
+
+Process ID:       5016
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=34590720, VMS=31236096
+Status:           running
+========================================
+
+Process ID:       5028
+Process Name:     DtsApo4Service.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=10608640, VMS=17547264
+Status:           running
+========================================
+
+Process ID:       5088
+Process Name:     AsusSoftwareManagerAgent.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=45490176, VMS=42864640
+Status:           running
+========================================
+
+Process ID:       5152
+Process Name:     GameSDK.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=6946816, VMS=1835008
+Status:           running
+========================================
+
+Process ID:       5204
+Process Name:     OneApp.IGCC.WinService.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=37556224, VMS=38404096
+Status:           running
+========================================
+
+Process ID:       5224
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=7655424, VMS=2703360
+Status:           running
+========================================
+
+Process ID:       5232
+Process Name:     msedgewebview2.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=5611520, VMS=117215232
+Status:           running
+========================================
+
+Process ID:       5308
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=10809344, VMS=3051520
+Status:           running
+========================================
+
+Process ID:       5332
+Process Name:     IntelAudioService.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=26505216, VMS=40636416
+Status:           running
+========================================
+
+Process ID:       5340
+Process Name:     LightingService.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=16113664, VMS=7749632
+Status:           running
+========================================
+
+Process ID:       5348
+Process Name:     mc-fw-host.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=136511488, VMS=212901888
+Status:           running
+========================================
+
+Process ID:       5388
+Process Name:     esif_uf.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=5804032, VMS=1949696
+Status:           running
+========================================
+
+Process ID:       5476
+Process Name:     servicehost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=35291136, VMS=25124864
+Status:           running
+========================================
+
+Process ID:       5512
+Process Name:     msedge.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=111849472, VMS=77402112
+Status:           running
+========================================
+
+Process ID:       5528
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=9170944, VMS=2363392
+Status:           running
+========================================
+
+Process ID:       5572
+Process Name:     mongod.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=28119040, VMS=375693312
+Status:           running
+========================================
+
+Process ID:       5584
+Process Name:     RuntimeBroker.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=21200896, VMS=7770112
+Status:           running
+========================================
+
+Process ID:       5696
+Process Name:     msedge.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=22679552, VMS=8376320
+Status:           running
+========================================
+
+Process ID:       5700
+Process Name:     ROGLiveService.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=19800064, VMS=12496896
+Status:           running
+========================================
+
+Process ID:       5708
+Process Name:     RtkAudUService64.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=10625024, VMS=5873664
+Status:           running
+========================================
+
+Process ID:       5716
+Process Name:     TbtP2pShortcutService.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=5607424, VMS=1331200
+Status:           running
+========================================
+
+Process ID:       5724
+Process Name:     RstMwService.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=7442432, VMS=2256896
+Status:           running
+========================================
+
+Process ID:       5864
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=5636096, VMS=1347584
+Status:           running
+========================================
+
+Process ID:       5876
+Process Name:     WMIRegistrationService.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=14053376, VMS=2953216
+Status:           running
+========================================
+
+Process ID:       5884
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=19243008, VMS=4694016
+Status:           running
+========================================
+
+Process ID:       6040
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=7843840, VMS=1818624
+Status:           running
+========================================
+
+Process ID:       6148
+Process Name:     jhi_service.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=6254592, VMS=1355776
+Status:           running
+========================================
+
+Process ID:       6616
+Process Name:     UserOOBEBroker.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=8884224, VMS=2039808
+Status:           running
+========================================
+
+Process ID:       7260
+Process Name:     SystemSettings.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=2867200, VMS=129863680
+Status:           stopped
+========================================
+
+Process ID:       7444
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=13561856, VMS=7954432
+Status:           running
+========================================
+
+Process ID:       7472
+Process Name:     msedge.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=184832000, VMS=131006464
+Status:           running
+========================================
+
+Process ID:       7524
+Process Name:     Code.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=343658496, VMS=530165760
+Status:           running
+========================================
+
+Process ID:       7836
+Process Name:     StartMenuExperienceHost.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=97767424, VMS=92360704
+Status:           running
+========================================
+
+Process ID:       7944
+Process Name:     svchost.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=24256512, VMS=11669504
+Status:           running
+========================================
+
+Process ID:       8028
+Process Name:     sihost.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=39346176, VMS=10051584
+Status:           running
+========================================
+
+Process ID:       8112
+Process Name:     WmiPrvSE.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=44736512, VMS=34418688
+Status:           running
+========================================
+
+Process ID:       8256
+Process Name:     svchost.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=9388032, VMS=2031616
+Status:           running
+========================================
+
+Process ID:       8760
+Process Name:     AsusOptimizationStartupTask.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=16064512, VMS=3158016
+Status:           running
+========================================
+
+Process ID:       8808
+Process Name:     PhoneExperienceHost.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=130166784, VMS=97693696
+Status:           running
+========================================
+
+Process ID:       8920
+Process Name:     git.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=11771904, VMS=55087104
+Status:           running
+========================================
+
+Process ID:       9052
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=10903552, VMS=7233536
+Status:           running
+========================================
+
+Process ID:       9200
+Process Name:     svchost.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=8269824, VMS=2035712
+Status:           running
+========================================
+
+Process ID:       9300
+Process Name:     svchost.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=8613888, VMS=2076672
+Status:           running
+========================================
+
+Process ID:       9308
+Process Name:     AsHotplugCtrl.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=1822720, VMS=1433600
+Status:           running
+========================================
+
+Process ID:       9360
+Process Name:     WindowsTerminal.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=130437120, VMS=85688320
+Status:           running
+========================================
+
+Process ID:       9376
+Process Name:     Code.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=129851392, VMS=110272512
+Status:           running
+========================================
+
+Process ID:       9412
+Process Name:     igfxEMN.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=12185600, VMS=3751936
+Status:           running
+========================================
+
+Process ID:       9480
+Process Name:     uihost.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=26333184, VMS=13758464
+Status:           running
+========================================
+
+Process ID:       9512
+Process Name:     AcPowerNotification.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=11075584, VMS=42549248
+Status:           running
+========================================
+
+Process ID:       9572
+Process Name:     svchost.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=32829440, VMS=9916416
+Status:           running
+========================================
+
+Process ID:       9600
+Process Name:     AggregatorHost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=7647232, VMS=1654784
+Status:           running
+========================================
+
+Process ID:       9652
+Process Name:     ArmourySocketServer.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=2269184, VMS=3657728
+Status:           running
+========================================
+
+Process ID:       9676
+Process Name:     ArmouryHtmlDebugServer.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=1142784, VMS=1372160
+Status:           running
+========================================
+
+Process ID:       9688
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=18640896, VMS=3956736
+Status:           running
+========================================
+
+Process ID:       9800
+Process Name:     ASUSSmartDisplayControl.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=2682880, VMS=2416640
+Status:           running
+========================================
+
+Process ID:       9896
+Process Name:     msedge.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=41066496, VMS=19562496
+Status:           running
+========================================
+
+Process ID:       9904
+Process Name:     ArmouryCrate.UserSessionHelper.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=57876480, VMS=41558016
+Status:           running
+========================================
+
+Process ID:       9980
+Process Name:     conhost.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=5730304, VMS=5492736
+Status:           running
+========================================
+
+Process ID:       10176
+Process Name:     AsMonitorControl.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=1863680, VMS=1622016
+Status:           running
+========================================
+
+Process ID:       10192
+Process Name:     taskhostw.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=21856256, VMS=11452416
+Status:           running
+========================================
+
+Process ID:       10308
+Process Name:     RuntimeBroker.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=20127744, VMS=4935680
+Status:           running
+========================================
+
+Process ID:       10364
+Process Name:     Code.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=97501184, VMS=127832064
+Status:           running
+========================================
+
+Process ID:       10376
+Process Name:     mc-fw-host.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=22421504, VMS=9240576
+Status:           running
+========================================
+
+Process ID:       10608
+Process Name:     FileCoAuth.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=26923008, VMS=7663616
+Status:           running
+========================================
+
+Process ID:       10748
+Process Name:     explorer.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=303579136, VMS=276074496
+Status:           running
+========================================
+
+Process ID:       10964
+Process Name:     Code.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=49164288, VMS=16900096
+Status:           running
+========================================
+
+Process ID:       11020
+Process Name:     asus_framework.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=12238848, VMS=41062400
+Status:           running
+========================================
+
+Process ID:       11140
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=18268160, VMS=5586944
+Status:           running
+========================================
+
+Process ID:       11292
+Process Name:     Code.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=26537984, VMS=14594048
+Status:           running
+========================================
+
+Process ID:       11440
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=16478208, VMS=7790592
+Status:           running
+========================================
+
+Process ID:       11580
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=8400896, VMS=2740224
+Status:           running
+========================================
+
+Process ID:       11720
+Process Name:     msedgewebview2.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=7835648, VMS=2248704
+Status:           running
+========================================
+
+Process ID:       11748
+Process Name:     msedge.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=27766784, VMS=13742080
+Status:           running
+========================================
+
+Process ID:       11760
+Process Name:     SecurityHealthService.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=18083840, VMS=7753728
+Status:           running
+========================================
+
+Process ID:       11816
+Process Name:     powershell.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=42913792, VMS=52838400
+Status:           running
+========================================
+
+Process ID:       12012
+Process Name:     SearchHost.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=100380672, VMS=177934336
+Status:           stopped
+========================================
+
+Process ID:       12388
+Process Name:     msedgewebview2.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=4321280, VMS=11177984
+Status:           running
+========================================
+
+Process ID:       12448
+Process Name:     msedge.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=146325504, VMS=168349696
+Status:           running
+========================================
+
+Process ID:       12560
+Process Name:     Widgets.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=52146176, VMS=11587584
+Status:           running
+========================================
+
+Process ID:       12576
+Process Name:     RuntimeBroker.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=29028352, VMS=7909376
+Status:           running
+========================================
+
+Process ID:       12660
+Process Name:     dllhost.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=12193792, VMS=5988352
+Status:           running
+========================================
+
+Process ID:       12804
+Process Name:     RuntimeBroker.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=31678464, VMS=6754304
+Status:           running
+========================================
+
+Process ID:       12828
+Process Name:     backgroundTaskHost.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=2113536, VMS=18632704
+Status:           stopped
+========================================
+
+Process ID:       12888
+Process Name:     msedge.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=8015872, VMS=2318336
+Status:           running
+========================================
+
+Process ID:       12952
+Process Name:     WidgetService.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=21815296, VMS=5226496
+Status:           running
+========================================
+
+Process ID:       13052
+Process Name:     svchost.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=7761920, VMS=1859584
+Status:           running
+========================================
+
+Process ID:       13060
+Process Name:     Code.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=82481152, VMS=67932160
+Status:           running
+========================================
+
+Process ID:       13296
+Process Name:     RtkAudUService64.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=12935168, VMS=6590464
+Status:           running
+========================================
+
+Process ID:       13360
+Process Name:     ArmouryCrate.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=2490368, VMS=73732096
+Status:           stopped
+========================================
+
+Process ID:       13536
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=5685248, VMS=1286144
+Status:           running
+========================================
+
+Process ID:       13548
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=20586496, VMS=4714496
+Status:           running
+========================================
+
+Process ID:       13604
+Process Name:     RuntimeBroker.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=34082816, VMS=10936320
+Status:           running
+========================================
+
+Process ID:       13628
+Process Name:     Code.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=78827520, VMS=78323712
+Status:           running
+========================================
+
+Process ID:       13732
+Process Name:     ACCIMonitor.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=9609216, VMS=2150400
+Status:           running
+========================================
+
+Process ID:       13768
+Process Name:     msedgewebview2.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=147456, VMS=7409664
+Status:           running
+========================================
+
+Process ID:       13824
+Process Name:     LockApp.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=54927360, VMS=48893952
+Status:           stopped
+========================================
+
+Process ID:       14148
+Process Name:     RuntimeBroker.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=26472448, VMS=9519104
+Status:           running
+========================================
+
+Process ID:       14308
+Process Name:     ctfmon.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=33406976, VMS=31584256
+Status:           running
+========================================
+
+Process ID:       14376
+Process Name:     RuntimeBroker.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=20267008, VMS=7077888
+Status:           running
+========================================
+
+Process ID:       14520
+Process Name:     SearchIndexer.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=32276480, VMS=37969920
+Status:           running
+========================================
+
+Process ID:       14604
+Process Name:     svchost.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=11878400, VMS=2613248
+Status:           running
+========================================
+
+Process ID:       15144
+Process Name:     RuntimeBroker.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=15302656, VMS=2740224
+Status:           running
+========================================
+
+Process ID:       15280
+Process Name:     LocationNotificationWindows.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=2281472, VMS=2052096
+Status:           running
+========================================
+
+Process ID:       15468
+Process Name:     AsusOSD.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=9789440, VMS=5423104
+Status:           running
+========================================
+
+Process ID:       15548
+Process Name:     asus_framework.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=4943872, VMS=45563904
+Status:           running
+========================================
+
+Process ID:       15704
+Process Name:     AutoConnectHelper.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=32313344, VMS=34451456
+Status:           running
+========================================
+
+Process ID:       15764
+Process Name:     asus_framework.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=3072000, VMS=14999552
+Status:           running
+========================================
+
+Process ID:       15900
+Process Name:     AsusSurvey.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=37658624, VMS=35024896
+Status:           running
+========================================
+
+Process ID:       16104
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=7409664, VMS=2117632
+Status:           running
+========================================
+
+Process ID:       16108
+Process Name:     python.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=21762048, VMS=13893632
+Status:           running
+========================================
+
+Process ID:       16124
+Process Name:     Code.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=94146560, VMS=76996608
+Status:           running
+========================================
+
+Process ID:       16232
+Process Name:     OneDrive.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=405794816, VMS=1365471232
+Status:           running
+========================================
+
+Process ID:       16252
+Process Name:     WmiPrvSE.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=11821056, VMS=3928064
+Status:           running
+========================================
+
+Process ID:       16300
+Process Name:     SecurityHealthSystray.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=10080256, VMS=2076672
+Status:           running
+========================================
+
+Process ID:       16324
+Process Name:     RtkAudUService64.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=11493376, VMS=3723264
+Status:           running
+========================================
+
+Process ID:       16348
+Process Name:     Code.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=275628032, VMS=621826048
+Status:           running
+========================================
+
+Process ID:       16424
+Process Name:     msedge.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=17252352, VMS=7749632
+Status:           running
+========================================
+
+Process ID:       16652
+Process Name:     svchost.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=12316672, VMS=2932736
+Status:           running
+========================================
+
+Process ID:       17048
+Process Name:     mc-neo-host.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=23670784, VMS=18944000
+Status:           running
+========================================
+
+Process ID:       17052
+Process Name:     TextInputHost.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=68939776, VMS=57798656
+Status:           running
+========================================
+
+Process ID:       17312
+Process Name:     msedge.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=183877632, VMS=93720576
+Status:           running
+========================================
+
+Process ID:       17356
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=20832256, VMS=4493312
+Status:           running
+========================================
+
+Process ID:       17440
+Process Name:     msedge.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=59392000, VMS=48619520
+Status:           running
+========================================
+
+Process ID:       17464
+Process Name:     msedge.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=47030272, VMS=24403968
+Status:           running
+========================================
+
+Process ID:       17496
+Process Name:     ApplicationFrameHost.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=33001472, VMS=16084992
+Status:           running
+========================================
+
+Process ID:       17820
+Process Name:     msedgewebview2.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=16384, VMS=10428416
+Status:           running
+========================================
+
+Process ID:       17864
+Process Name:     msedge.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=68673536, VMS=68546560
+Status:           running
+========================================
+
+Process ID:       18020
+Process Name:     Code.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=80138240, VMS=26660864
+Status:           running
+========================================
+
+Process ID:       18044
+Process Name:     msedge.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=44752896, VMS=17596416
+Status:           running
+========================================
+
+Process ID:       18092
+Process Name:     AnyDesk.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=12476416, VMS=30842880
+Status:           running
+========================================
+
+Process ID:       18108
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=22024192, VMS=12832768
+Status:           running
+========================================
+
+Process ID:       18200
+Process Name:     ONENOTEM.EXE
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=3530752, VMS=3747840
+Status:           running
+========================================
+
+Process ID:       18448
+Process Name:     RuntimeBroker.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=8749056, VMS=1798144
+Status:           running
+========================================
+
+Process ID:       18472
+Process Name:     conhost.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=5877760, VMS=5500928
+Status:           running
+========================================
+
+Process ID:       18576
+Process Name:     AsusSystemAnalysis.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=9277440, VMS=2482176
+Status:           running
+========================================
+
+Process ID:       18592
+Process Name:     unsecapp.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=7622656, VMS=1556480
+Status:           running
+========================================
+
+Process ID:       18620
+Process Name:     OpenConsole.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=12697600, VMS=2732032
+Status:           running
+========================================
+
+Process ID:       18684
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=11747328, VMS=4063232
+Status:           running
+========================================
+
+Process ID:       18796
+Process Name:     SystemSettingsBroker.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=33816576, VMS=9117696
+Status:           running
+========================================
+
+Process ID:       18812
+Process Name:     RuntimeBroker.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=11685888, VMS=2322432
+Status:           running
+========================================
+
+Process ID:       19316
+Process Name:     msedgewebview2.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=176128, VMS=106897408
+Status:           running
+========================================
+
+Process ID:       19544
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=9711616, VMS=2183168
+Status:           running
+========================================
+
+Process ID:       19636
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=7413760, VMS=1708032
+Status:           running
+========================================
+
+Process ID:       19840
+Process Name:     Code.exe
+Username:         MAHESH\mahes
+CPU Usage:        0.0%
+Memory Usage:     RSS=295211008, VMS=305299456
+Status:           running
+========================================
+
+Process ID:       19912
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=17620992, VMS=5427200
+Status:           running
+========================================
+
+Process ID:       20160
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=12853248, VMS=3596288
+Status:           running
+========================================
+
+Process ID:       20416
+Process Name:     svchost.exe
+Username:         None
+CPU Usage:        0.0%
+Memory Usage:     RSS=12906496, VMS=2781184
+Status:           running
+========================================
+
